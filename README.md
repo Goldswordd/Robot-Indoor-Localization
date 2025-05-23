@@ -1,5 +1,5 @@
 # Robot-Indoor-Localization
-This project using Qovor DWM1001 to make indoor localization system apply Webserver tracking and Robot control
+This project uses Qovor DWM1001 to create indoor localization system apply Webserver tracking and Robot control via UART on Raspberry Pi 3
 
 ## Basic PyQt5 GUI real time tracking
 ![DEMO](figure/app.jpg)
