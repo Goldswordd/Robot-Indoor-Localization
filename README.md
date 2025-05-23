@@ -7,4 +7,4 @@ This project using Qovor DWM1001 to make indoor localization system apply Webser
 ![ROBOT](figure/robot.jpg)
 
 This is my graduated project from SAE-UET
-contact lienv530@gmail.com for more information
+Plz contact lienv530@gmail.com for more information
